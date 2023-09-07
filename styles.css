@@ -129,3 +129,23 @@ button {
 .information-text {
     color: #4a5055;
 }
+
+/* Quote Section */
+
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 8% 15%;
+}
+
+.quote > p {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote > h2 {
+    color: #1F2937;
+}
