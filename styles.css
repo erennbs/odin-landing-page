@@ -36,6 +36,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-top: 10px;
 }
 
 .header-logo {
@@ -79,8 +80,11 @@ button {
 }
 
 .image-placeholder {
-    background-color: grey;
+    background-color: rgb(104, 111, 123);
     color: white;
     flex: 1;
     align-self: stretch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
